@@ -7,4 +7,4 @@ The Project is made using two different algorithms
 
 The dataset has been taken from Kaggle.
 
-![Image of Project](https://github.com/ayeshafalak/covidcases_prediction/covidimg1.png)
+![Image of Project](https://raw.githubusercontent.com/ayeshafalak/covidcases_prediction/main/covidimg1.png)
