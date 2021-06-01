@@ -1,6 +1,6 @@
 nbdt==0.0.4
 numpy
 pandas
-streamlit
+streamlit==0.75.0
 scikit-learn==0.19.0
 sklearn==0.0
