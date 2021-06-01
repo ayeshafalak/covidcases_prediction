@@ -2,3 +2,4 @@ streamlit==0.81.0
 numpy==1.20.2
 pandas==1.2.4
 scikit-learn==0.22.2.post1
+datetime
