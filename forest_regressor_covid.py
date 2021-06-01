@@ -144,7 +144,7 @@ model=RandomForestRegressor()
 # In[20]:
 
 
-model.fit(np.array(xtrain).reshape(-1,1), np.array(ytrain).reshape(-1,1))
+model.fit(np.array(xtrain).reshape(-1,1), ytrain.values.ravel())
 
 
 # 
