@@ -138,7 +138,7 @@ xtrain,xtest,ytrain,ytest=train_test_split(x,y,test_size=0.2, random_state=0)
 # In[19]:
 
 
-model=RandomForestRegressor()
+model=LinearRegression()
 
 
 # In[20]:
