@@ -17,7 +17,7 @@ from sklearn.svm import SVR
 # Taking Input Date From User:
 
 
-st.write("Covid-19 Cases Prediction")
+st.write("Covid-19 Cases Prediction for UPCOMING WEEK")
 predictdate= st.date_input('Input Date')
 predictdate=pd.to_datetime(predictdate)
 predictdate=predictdate.toordinal()
