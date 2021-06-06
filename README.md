@@ -11,3 +11,8 @@ The dataset has been taken from Kaggle.
 
 
 ![Image of Project](https://raw.githubusercontent.com/ayeshafalak/covidcases_prediction/main/covidimg1.png)
+
+![Image of Project](https://raw.githubusercontent.com/ayeshafalak/covidcases_prediction/main/Screenshot 2021-06-07 at 1.11.31 AM.png)
+
+
+
