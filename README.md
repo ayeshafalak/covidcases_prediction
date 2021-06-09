@@ -21,7 +21,7 @@ pip install streamlit
 
 ```sh
 # In cmd
-streamlit run filename.py
+streamlit run [filename] # eg: streamlit run forest_regressor_covid.py
 ```
 
 Using Random Forest Regression for state_wise_daily dataset:
