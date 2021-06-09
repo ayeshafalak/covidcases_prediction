@@ -11,9 +11,18 @@ The dataset has been taken from Kaggle.
 
 
 ## Requirements
-``` pip install streamlit```
+
+```sh
+# In cmd
+pip install streamlit
+```
+
 ## Usage
-```streamlit run filename.py```
+
+```sh
+# In cmd
+streamlit run filename.py
+```
 
 Using Random Forest Regression for state_wise_daily dataset:
 ![Image of Project](https://raw.githubusercontent.com/ayeshafalak/covidcases_prediction/main/covidimg1.png)
