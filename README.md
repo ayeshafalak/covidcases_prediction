@@ -7,7 +7,22 @@ The Project is made using three different algorithms
 ~ Support Vector Regression
 
 
-The dataset has been taken from Kaggle.
+The dataset has been taken from [Kaggle](https://www.kaggle.com/punyaslokaprusty/covid-19-india-tracking).
+
+
+## Requirements
+
+```sh
+# In cmd
+pip install streamlit
+```
+
+## Usage
+
+```sh
+# In cmd
+streamlit run [filename] # eg: streamlit run forest_regressor_covid.py
+```
 
 Using Random Forest Regression for state_wise_daily dataset:
 ![Image of Project](https://raw.githubusercontent.com/ayeshafalak/covidcases_prediction/main/covidimg1.png)
