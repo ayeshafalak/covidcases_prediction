@@ -1,5 +1,24 @@
 # covidcases_prediction
 ![Athavani](https://socialify.git.ci/ayeshafalak/covidcases_prediction/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
+
+<div align="center">
+    
+<a href="https://github.com/ayeshafalak/covidcases_prediction"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/ayeshafalak/covidcases_prediction"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/ayeshafalak/covidcases_prediction"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/ayeshafalak/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="https://github.com/ayeshafalak/covidcases_prediction"><img src="https://img.shields.io/badge/PR's%3F-Welcomed-brightgreen.svg?v=103"></a>
+
+<a href="https://github.com/ayeshafalak/covidcases_prediction/watchers"><img src="https://img.shields.io/github/watchers/ayeshafalak/covidcases_prediction?style=flat"></a> 
+<a href="https://github.com/ayeshafalak/covidcases_prediction/graphs/contributors"><img src="https://img.shields.io/github/contributors/ayeshafalak/covidcases_prediction?color=brightgreen"></a>
+<a href="https://github.com/ayeshafalak/covidcases_prediction/stargazers"><img src="https://img.shields.io/github/stars/ayeshafalak/covidcases_prediction?color=0059b3"></a>
+<a href="https://github.com/ayeshafalak/covidcases_prediction/network/members"><img src="https://img.shields.io/github/forks/ayeshafalak/covidcases_prediction?color=yellow"></a>
+<a href="https://github.com/ayeshafalak/covidcases_prediction/issues"><img src="https://img.shields.io/github/issues/ayeshafalak/covidcases_prediction?color=0059b3"></a>
+<a href="https://github.com/ayeshafalak/covidcases_prediction/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/ayeshafalak/covidcases_prediction?color=yellow"></a>
+<a href="https://github.com/ayeshafalak/covidcases_prediction/pulls"><img src="https://img.shields.io/github/issues-pr/ayeshafalak/covidcases_prediction?color=brightgreen"></a>
+<a href="https://github.com/ayeshafalak/covidcases_prediction/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/ayeshafalak/covidcases_prediction?color=0059b3"></a> 
+</div>
+    
 This is a Python Project which aims at predicting the number of covid cases in India on any given date.
 The Project is made using three different algorithms 
 • Linear Regression
