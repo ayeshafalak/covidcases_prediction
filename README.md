@@ -50,6 +50,10 @@ Using SVR for covid_data dataset:
 
 ![Image of Project](https://raw.githubusercontent.com/ayeshafalak/covidcases_prediction/main/Screenshot%202021-06-07%20at%201.11.31%20AM.png)
 
+## Code of conduct ©️
+
+* Please take a moment to review the [Code of Conduct](https://github.com/ayeshafalak/covidcases_prediction/blob/main/CODE_OF_CONDUCT.md) 
+
 ## ❤️ Project Admin
 <table>
     <tr>
